@@ -1,4 +1,4 @@
-# Chat_bot_with_Python
+# Chat bot with Python and NLTK (NLP)
 
 How Chat Bot Works?
 
